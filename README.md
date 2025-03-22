@@ -59,16 +59,7 @@
 - 📝 支持下载和导入，导入追加到当前序列
 
 ## 作者
-
-- 小红书关注更新：<a href="https://www.xiaohongshu.com/user/profile/5f2b6903000000000101f51f" target="_blank">@Rico的设计漫想</a>
-- Rico's 博客 <a href="https://blog.ricocc.com/" target="_blank">@Ricocc</a>
-- X - <a href="https://x.com/ricouii" target="_blank">@Ricouii</a>
-
-## 推荐项目
 - <a href="https://github.com/ricocc/public-portfolio-site/" target="_blank">⭐Star Github- Ricocc 开源博客 </a>
-- <a href="https://webinspo.uiineed.com/" target="_blank">💻 网页灵感站</a>
-- <a href="https://og.uiineed.com/" target="_blank">🖼 免费 OG Image 生成器</a>
-
 
 ---
 <br/>
@@ -128,28 +119,7 @@ The personal information section is as follows:
 - 📝 Supports data download and import (appends to current list)
 
 ## Authors
-- Rico's Blog <a href="https://blog.ricocc.com/" target="_blank">@Ricocc</a>
-- 小红书：  <a href="https://www.xiaohongshu.com/user/profile/5f2b6903000000000101f51f" target="_blank">@Rico的设计漫想</a>
-- X - <a href="https://x.com/ricouii" target="_blank">@Ricouii</a>
-
-## Recommend
 - <a href="https://github.com/ricocc/public-portfolio-site/" target="_blank">⭐Star Github- Ricocc's Blog </a>
-- <a href="https://webinspo.uiineed.com/" target="_blank">💻 Web Design Inspiration</a>
-- <a href="https://og.uiineed.com/" target="_blank">🖼 Free OG Image Generator</a>
-
-
-
-
----
-
-
-
-### 💜支持作者
-
-如果觉得有所帮助的话，一点点支持就可以大大激励创作者的热情，感谢！
-
-<img src="public/img/ricocc/zanshangma.jpg" alt="ricocc-wechat" width="280" height="auto" style="display:inline-block;margin:12px;">
-
 
 
 
